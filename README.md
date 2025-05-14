@@ -15,6 +15,7 @@ Se puede ingresar la cantidad de números deseada y salir cuando se indique.
 El usuario puede ingresar una lista de números de forma manual por consola.  
 **Ejemplo:**
 c:\Users\Dell\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{15370001-C347-49E2-B7EC-DF2875998B25}.png
+![{D0F4784B-5A8D-4B05-8A11-A610925062BD}](https://github.com/user-attachments/assets/ac745dcd-bb5f-4fa2-aec1-73071f6e0e8f)
 ![alt text]({35CB01D0-D47A-4F7F-A4E8-1C66FF18A627}.png)
 ![alt text]({39B08A53-5A75-4619-A585-ECB9D6FB64ED}.png)
 ---
@@ -50,3 +51,4 @@ luego de esto ya podemos escribir los numeros que deseamos agregar vamos presion
 ---
 
 ## Video de youtube 
+https://youtu.be/joWWWSPFUOM
